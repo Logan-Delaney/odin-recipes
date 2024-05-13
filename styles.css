@@ -23,3 +23,18 @@ ol {
     display: inline-block;
     text-align: left;
 }
+
+.waffles {
+    display: block;
+    padding: 8px;
+}
+
+.french {
+    display:block;
+    padding: 8px;
+}
+
+.crepes {
+    display: block;
+    padding: 8px;
+}
